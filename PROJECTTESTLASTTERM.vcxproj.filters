@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\GiaoDien.h">
+      <UniqueIdentifier>{c5297bf2-085d-4f26-8796-e75f12d24df2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CheDo.h">
+      <UniqueIdentifier>{562027e0-eb23-4911-a718-3f2f5d270acb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ChucNangKhac.h">
+      <UniqueIdentifier>{08ee4fd2-b030-4e8f-afe2-f1a3559655ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\AnCheDo.txt">
+      <UniqueIdentifier>{b7d7c6b6-fade-4a74-ad61-4e3427e42546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\AnLoadGame.txt">
+      <UniqueIdentifier>{cec3135d-73ac-4efd-8483-13b5ad6c870a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\AnCheDo.txt\PlayerVsPlayer">
+      <UniqueIdentifier>{69028b2b-d0be-44ef-ae77-af33d68bdf42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\AnCharactar.txt">
+      <UniqueIdentifier>{31ad0e44-7431-42f3-9bad-64e32a927603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Ankhac.txt">
+      <UniqueIdentifier>{ba2eab3d-bdf5-4ff7-b4d4-e021abbb4a2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Giao Diện">
+      <UniqueIdentifier>{e79361dd-57bf-4fcd-aa6e-774ee8667771}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chế Độ Chơi">
+      <UniqueIdentifier>{ca9391bf-ff86-4372-96c4-f63c3a6007ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Các chức năng khác">
+      <UniqueIdentifier>{d6643dde-f4e6-4369-91e5-fcf5ed7a9e8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\AnCheDo.txt\PlayerVsPlayer\PlayerVsBot">
+      <UniqueIdentifier>{34c5472d-975e-4783-ab98-ea15f510b3e7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleFoundation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingBar.cpp">
+      <Filter>Source Files\Giao Diện</Filter>
+    </ClCompile>
+    <ClCompile Include="Menugame.cpp">
+      <Filter>Source Files\Giao Diện</Filter>
+    </ClCompile>
+    <ClCompile Include="CHARACTARS.cpp">
+      <Filter>Source Files\Giao Diện</Filter>
+    </ClCompile>
+    <ClCompile Include="Decorate.cpp">
+      <Filter>Source Files\Giao Diện</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayervsPlayer.cpp">
+      <Filter>Source Files\Chế Độ Chơi</Filter>
+    </ClCompile>
+    <ClCompile Include="PLAYERVSBOT.cpp">
+      <Filter>Source Files\Chế Độ Chơi</Filter>
+    </ClCompile>
+    <ClCompile Include="Textfile.cpp">
+      <Filter>Source Files\Giao Diện</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsBox.cpp">
+      <Filter>Source Files\Giao Diện</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files\Các chức năng khác</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveLoadGame.cpp">
+      <Filter>Source Files\Các chức năng khác</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConsoleFoundation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Textfile.h">
+      <Filter>Header Files\GiaoDien.h</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsBox.h">
+      <Filter>Header Files\GiaoDien.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Loadingbar.h">
+      <Filter>Header Files\GiaoDien.h</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuGame.h">
+      <Filter>Header Files\GiaoDien.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Charactars.h">
+      <Filter>Header Files\GiaoDien.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Decorate.h">
+      <Filter>Header Files\GiaoDien.h</Filter>
+    </ClInclude>
+    <ClInclude Include="PLAYERVSBOT.h">
+      <Filter>Header Files\CheDo.h</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayervsPlayer.h">
+      <Filter>Header Files\CheDo.h</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveLoadGame.h">
+      <Filter>Header Files\ChucNangKhac.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files\ChucNangKhac.h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LOADBOT.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="LOADBOTBAR.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="BOTWIN.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer\PlayerVsBot</Filter>
+    </Text>
+    <Text Include="LOADHUMANS.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="Charizard.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="Charizard2.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="DRAW.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer</Filter>
+    </Text>
+    <Text Include="Meowtwo.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="Meowtwo2.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="Pikachu2.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="Pikachu.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="OWIN.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer\PlayerVsBot</Filter>
+    </Text>
+    <Text Include="XWIN.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer\PlayerVsBot</Filter>
+    </Text>
+    <Text Include="LOADHUMANSBAR.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="PlayerVsPlayer.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer</Filter>
+    </Text>
+    <Text Include="PVSC.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer\PlayerVsBot</Filter>
+    </Text>
+    <Text Include="Vs.txt">
+      <Filter>Resource Files\AnCharactar.txt</Filter>
+    </Text>
+    <Text Include="YOUWIN.txt">
+      <Filter>Resource Files\AnCheDo.txt\PlayerVsPlayer</Filter>
+    </Text>
+    <Text Include="animation.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="animationAbout.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="CARO.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="CAROBAR.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="Help.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="HelpTil.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="ListLoadBot.txt">
+      <Filter>Resource Files\Ankhac.txt</Filter>
+    </Text>
+    <Text Include="CARO - Copy (3).txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="CurBot.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="CurFile.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="test1.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="test2.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="test3.txt">
+      <Filter>Resource Files\AnLoadGame.txt</Filter>
+    </Text>
+    <Text Include="Xbar.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Obar.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="XAsk.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="OAsk.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="AboutBoard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="CaroAbout.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
