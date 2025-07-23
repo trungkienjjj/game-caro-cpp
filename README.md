@@ -2,7 +2,11 @@
 
 Đây là đồ án môn học Nhập môn Lập trình, mục tiêu là xây dựng một game cờ caro (5x5) hoàn chỉnh chạy trên môi trường console, được lập trình hoàn toàn bằng ngôn ngữ C++.
 
-![Gameplay Screenshot](<[% GHI CHÚ: Dán link ảnh screenshot của bạn vào đây]>)
+![Gameplay Screenshot](https://github.com/trungkienjjj/game-caro-cpp/blob/main/Screenshot%202025-07-23%20101836.png?raw=true)
+![Gameplay Screenshot](https://github.com/trungkienjjj/game-caro-cpp/blob/main/Screenshot%202025-07-23%20101836.png?raw=true)
+![Gameplay Screenshot](https://github.com/trungkienjjj/game-caro-cpp/blob/main/Screenshot%202025-07-23%20101836.png?raw=true)
+![Gameplay Screenshot](https://github.com/trungkienjjj/game-caro-cpp/blob/main/Screenshot%202025-07-23%20101836.png?raw=true)
+![Gameplay Screenshot](https://github.com/trungkienjjj/game-caro-cpp/blob/main/Screenshot%202025-07-23%20101836.png?raw=true)
 
 ---
 
