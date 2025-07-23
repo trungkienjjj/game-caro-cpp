@@ -63,6 +63,7 @@ Dự án này được thực hiện nhằm áp dụng các kiến thức lập 
 
 ## 👥 Đội ngũ phát triển (Team)
 Dự án này là sản phẩm hợp tác của nhóm sinh viên trong khuôn khổ môn học.
-* **[Tên bạn 1]**
-* **[Tên bạn 2]**
+* **Nguyễn Lâm Phú Quý**
+* **Đào Sỹ Duy Minh**
+* **Bàng Mỹ Linh**
 * **Nguyễn Trần Trung Kiên**
